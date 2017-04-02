@@ -41,6 +41,6 @@ Subscriber
 ----------
 
 	Receive data from broker.
-	# python subscriber.py
+	$ python subscriber.py
 
 
