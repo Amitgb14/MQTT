@@ -34,11 +34,13 @@ Publisher
 ----------
 
 	Send data to broker.
+	$ python publisher.py
 
 
 Subscriber
 ----------
 
 	Receive data from broker.
+	# python subscriber.py
 
 
