@@ -21,6 +21,15 @@ Run mosquitto service
 	$ su service mosquitto start
 
 
+OR
+
+
+Pull Docker image
+-----------------
+	$ docker pull aghadge/mosquitto
+	$ docker run -it docker.io/aghadge/mosquitto
+
+
 Publisher
 ----------
 
