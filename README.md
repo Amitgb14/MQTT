@@ -5,7 +5,7 @@ Add user
 ---------
 
 	$ echo "<user>:<password>" > /etc/mosquitto/pwfile
-	$ mosquitto_passwd -U /etc/mosquitto/pwfile``
+	$ mosquitto_passwd -U /etc/mosquitto/pwfile
 	    
 		  
 Edit /etc/mosquitto/mosquitto.conf
